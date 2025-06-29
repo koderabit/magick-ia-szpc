@@ -63,7 +63,7 @@ body {
 
 .container select.categoria {
 	appearance: none;
-	background: url(../imagens/seta-para-baixo.png) 97% center no-repeat;
+	background: url(../imagens/seta-para-baixo.png) #f2eefa 97% center no-repeat;
 }
 
 .container .filtros .btn-filtrar {
